@@ -18,4 +18,4 @@ Software - R Studio, Tableau Desktop, Kaggle.
 Dataset - Cyclistic Dataset [Link](https://divvy-tripdata.s3.amazonaws.com/index.html)
 ### HTML Document
 
-[Click](https://hrithiksh28.github.io/CyclisticBikeShareAnalysis/) to view the Project
+[Click](https://hrithiksh28.github.io/CyclisticBikeShare/) to view the Project
